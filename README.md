@@ -67,7 +67,7 @@ $ snowmachine snow --color=rainbow
 
 In addition you can change the speed of particles:
 ```bash
-$ snowmachine --speed=5
+$ snowmachine snow --speed=5
 ```
 
 
